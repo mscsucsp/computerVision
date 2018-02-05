@@ -1,0 +1,11 @@
+
+*.exe
+*.out
+
+*.lib
+*.dll
+*.a
+
+*.mp4
+*.mpeg
+*.avi
